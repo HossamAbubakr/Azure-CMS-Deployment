@@ -204,7 +204,7 @@ pip install -r requirements.txt
 4. Deploy Using Azure App Service Deployment Through Github!
 
 5. Optional : Run App Locally! 
-```
+```Batchfile
 set FLASK_APP=application.py
 flask run
 ```
