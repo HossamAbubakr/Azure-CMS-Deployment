@@ -48,16 +48,6 @@ Microsoft Azure was used for deployment.
 
 4. Login using an existing Microsoft account (Including Xbox etc.) using Azure Active Directory oAuth.
 
-## Features
-
-1. Create new posts.
-
-2. Edit your existing posts.
-
-3. Embed images in your social posts. 
-
-4. Login using an existing Microsoft account (Including Xbox etc.) using Azure Active Directory oAuth.
-
 ## Case Study
 
 ### Azure Analysis, Choice and Justification for the resource option for deploying the app.
