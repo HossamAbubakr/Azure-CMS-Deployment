@@ -162,8 +162,12 @@ You can
 ```
 pip install -r requirements.txt
 ```
-2.populate your Azure SQL Database with initial data using the files in the sql_scripts folder.  
-3. Supply your own configuration string at config.py
+2. Populate your Azure SQL Database with initial data using the files in the sql_scripts folder. 
+```
+/sql_scripts/posts-table-init.sql
+/sql_scripts/users-table-init.sql
+``` 
+3. Supply your own configuration strings at config.py
 ```python
     CLIENT_ID = "ENTER_CLIENT_ID_HERE"
 ```
