@@ -58,8 +58,8 @@ My report was made based on Azure Tiers [current pricing](https://azure.microsof
 
 | Service  | Cost | Scalability | Availability | Workflow |
 | ------------- |:-------------:|:-------------:|:-------------:|:-------------:|
-|App Service|Cheaper but always paying, even if service/application isn’t running|Highly Scalable, has a hardware limit per instance|High availability|IaaS, Complete control over deployment and the technology stack of the operating system|
-|VM Service|More expensive, but can be de-allocated when not needed|Highly Scalable|High availability|PaaS, Allows the developer to focus on development, receiving less control over the deployment pipeline|
+|App Service|Cheaper but always paying, even if service/application isn’t running|Highly Scalable, has a hardware limit per instance|High availability|PaaS, Allows the developer to focus on development, receiving less control over the deployment pipeline|
+|VM Service|More expensive, but can be de-allocated when not needed|Highly Scalable|High availability|IaaS, Complete control over deployment and the technology stack of the operating system|
 
 #### App Service and VM Tiers Considered
 | Service  | Tier | Cost | RAM |Storage |CPU |
