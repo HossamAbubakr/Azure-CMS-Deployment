@@ -13,7 +13,7 @@
 
 * [Structure](#Structure)
 
-* [Usage](#usage)
+* [Usage and Installation](#Usage-and-Installation)
 
 ## Summary
 
